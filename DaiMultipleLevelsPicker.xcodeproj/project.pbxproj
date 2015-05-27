@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C1A2A0B1B16BA3700871B21 /* ImageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C1A2A0A1B16BA3700871B21 /* ImageCell.m */; };
+		1C1A2A131B16BDDA00871B21 /* 橘子.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C1A2A0D1B16BDDA00871B21 /* 橘子.jpg */; };
+		1C1A2A141B16BDDA00871B21 /* 葡萄.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C1A2A0E1B16BDDA00871B21 /* 葡萄.jpg */; };
+		1C1A2A151B16BDDA00871B21 /* 蝦.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C1A2A0F1B16BDDA00871B21 /* 蝦.jpg */; };
+		1C1A2A161B16BDDA00871B21 /* 香蕉.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C1A2A101B16BDDA00871B21 /* 香蕉.jpg */; };
+		1C1A2A171B16BDDA00871B21 /* 高雄.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C1A2A111B16BDDA00871B21 /* 高雄.jpg */; };
+		1C1A2A181B16BDDA00871B21 /* 魚.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C1A2A121B16BDDA00871B21 /* 魚.jpg */; };
 		1CA75F181B15A6EE00B24AC9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CA75F171B15A6EE00B24AC9 /* main.m */; };
 		1CA75F1B1B15A6EE00B24AC9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CA75F1A1B15A6EE00B24AC9 /* AppDelegate.m */; };
 		1CA75F1E1B15A6EE00B24AC9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CA75F1D1B15A6EE00B24AC9 /* ViewController.m */; };
@@ -14,6 +21,7 @@
 		1CA75F231B15A6EE00B24AC9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CA75F221B15A6EE00B24AC9 /* Images.xcassets */; };
 		1CA75F261B15A6EE00B24AC9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CA75F241B15A6EE00B24AC9 /* LaunchScreen.xib */; };
 		1CA75F321B15A6EE00B24AC9 /* DaiMultipleLevelsPickerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CA75F311B15A6EE00B24AC9 /* DaiMultipleLevelsPickerTests.m */; };
+		1CA75F3E1B15A77200B24AC9 /* DaiMultipleLevelsPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CA75F3D1B15A77200B24AC9 /* DaiMultipleLevelsPicker.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +35,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1C1A2A091B16BA3700871B21 /* ImageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageCell.h; sourceTree = "<group>"; };
+		1C1A2A0A1B16BA3700871B21 /* ImageCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageCell.m; sourceTree = "<group>"; };
+		1C1A2A0D1B16BDDA00871B21 /* 橘子.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "橘子.jpg"; sourceTree = "<group>"; };
+		1C1A2A0E1B16BDDA00871B21 /* 葡萄.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "葡萄.jpg"; sourceTree = "<group>"; };
+		1C1A2A0F1B16BDDA00871B21 /* 蝦.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "蝦.jpg"; sourceTree = "<group>"; };
+		1C1A2A101B16BDDA00871B21 /* 香蕉.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "香蕉.jpg"; sourceTree = "<group>"; };
+		1C1A2A111B16BDDA00871B21 /* 高雄.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "高雄.jpg"; sourceTree = "<group>"; };
+		1C1A2A121B16BDDA00871B21 /* 魚.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "魚.jpg"; sourceTree = "<group>"; };
 		1CA75F121B15A6EE00B24AC9 /* DaiMultipleLevelsPicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DaiMultipleLevelsPicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CA75F161B15A6EE00B24AC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1CA75F171B15A6EE00B24AC9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +56,8 @@
 		1CA75F2B1B15A6EE00B24AC9 /* DaiMultipleLevelsPickerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DaiMultipleLevelsPickerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CA75F301B15A6EE00B24AC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1CA75F311B15A6EE00B24AC9 /* DaiMultipleLevelsPickerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DaiMultipleLevelsPickerTests.m; sourceTree = "<group>"; };
+		1CA75F3C1B15A77200B24AC9 /* DaiMultipleLevelsPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DaiMultipleLevelsPicker.h; sourceTree = "<group>"; };
+		1CA75F3D1B15A77200B24AC9 /* DaiMultipleLevelsPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DaiMultipleLevelsPicker.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +78,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1C1A2A0C1B16BDDA00871B21 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				1C1A2A0D1B16BDDA00871B21 /* 橘子.jpg */,
+				1C1A2A0E1B16BDDA00871B21 /* 葡萄.jpg */,
+				1C1A2A0F1B16BDDA00871B21 /* 蝦.jpg */,
+				1C1A2A101B16BDDA00871B21 /* 香蕉.jpg */,
+				1C1A2A111B16BDDA00871B21 /* 高雄.jpg */,
+				1C1A2A121B16BDDA00871B21 /* 魚.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
 		1CA75F091B15A6EE00B24AC9 = {
 			isa = PBXGroup;
 			children = (
@@ -81,11 +112,14 @@
 		1CA75F141B15A6EE00B24AC9 /* DaiMultipleLevelsPicker */ = {
 			isa = PBXGroup;
 			children = (
+				1CA75F3B1B15A75100B24AC9 /* DaiMultipleLevelsPicker */,
 				1CA75F191B15A6EE00B24AC9 /* AppDelegate.h */,
 				1CA75F1A1B15A6EE00B24AC9 /* AppDelegate.m */,
 				1CA75F1C1B15A6EE00B24AC9 /* ViewController.h */,
 				1CA75F1D1B15A6EE00B24AC9 /* ViewController.m */,
 				1CA75F1F1B15A6EE00B24AC9 /* Main.storyboard */,
+				1C1A2A091B16BA3700871B21 /* ImageCell.h */,
+				1C1A2A0A1B16BA3700871B21 /* ImageCell.m */,
 				1CA75F221B15A6EE00B24AC9 /* Images.xcassets */,
 				1CA75F241B15A6EE00B24AC9 /* LaunchScreen.xib */,
 				1CA75F151B15A6EE00B24AC9 /* Supporting Files */,
@@ -96,6 +130,7 @@
 		1CA75F151B15A6EE00B24AC9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1C1A2A0C1B16BDDA00871B21 /* images */,
 				1CA75F161B15A6EE00B24AC9 /* Info.plist */,
 				1CA75F171B15A6EE00B24AC9 /* main.m */,
 			);
@@ -117,6 +152,15 @@
 				1CA75F301B15A6EE00B24AC9 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1CA75F3B1B15A75100B24AC9 /* DaiMultipleLevelsPicker */ = {
+			isa = PBXGroup;
+			children = (
+				1CA75F3C1B15A77200B24AC9 /* DaiMultipleLevelsPicker.h */,
+				1CA75F3D1B15A77200B24AC9 /* DaiMultipleLevelsPicker.m */,
+			);
+			path = DaiMultipleLevelsPicker;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,7 +243,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C1A2A181B16BDDA00871B21 /* 魚.jpg in Resources */,
+				1C1A2A151B16BDDA00871B21 /* 蝦.jpg in Resources */,
+				1C1A2A171B16BDDA00871B21 /* 高雄.jpg in Resources */,
+				1C1A2A141B16BDDA00871B21 /* 葡萄.jpg in Resources */,
 				1CA75F211B15A6EE00B24AC9 /* Main.storyboard in Resources */,
+				1C1A2A131B16BDDA00871B21 /* 橘子.jpg in Resources */,
+				1C1A2A161B16BDDA00871B21 /* 香蕉.jpg in Resources */,
 				1CA75F261B15A6EE00B24AC9 /* LaunchScreen.xib in Resources */,
 				1CA75F231B15A6EE00B24AC9 /* Images.xcassets in Resources */,
 			);
@@ -220,8 +270,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				1CA75F1E1B15A6EE00B24AC9 /* ViewController.m in Sources */,
+				1C1A2A0B1B16BA3700871B21 /* ImageCell.m in Sources */,
 				1CA75F1B1B15A6EE00B24AC9 /* AppDelegate.m in Sources */,
 				1CA75F181B15A6EE00B24AC9 /* main.m in Sources */,
+				1CA75F3E1B15A77200B24AC9 /* DaiMultipleLevelsPicker.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,6 +464,7 @@
 				1CA75F371B15A6EE00B24AC9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1CA75F381B15A6EE00B24AC9 /* Build configuration list for PBXNativeTarget "DaiMultipleLevelsPickerTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +473,7 @@
 				1CA75F3A1B15A6EE00B24AC9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
